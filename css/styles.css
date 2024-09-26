@@ -1,0 +1,25 @@
+/* Common Styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.dark-mode {
+    background-color: #333;
+    color: #ccc;
+}
+
+.dark-mode header {
+    background-color: #222;
+}
+
+.dark-mode .post {
+    background: #444;
+    border-color: #666;
+}
+
+/* Additional styles for light mode */
+header, footer {
+    background-color: #007bff;
+    color: white;
+}
